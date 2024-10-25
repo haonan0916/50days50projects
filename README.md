@@ -8,7 +8,7 @@
 
 ```bash
 # 克隆代码
-git clone https://github.com/haonan66/50days50projects.git
+git clone https://github.com/haonan0916/50days50projects.git
 
 # 切换目录
 cd icodeths-project
